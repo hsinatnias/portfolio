@@ -21,9 +21,11 @@ const experiences = [
     period: 'May 2018 – April 2019',
     current: false,
     highlights: [
-      'Led a 3-member team coordinating with North American stakeholders on Excel/VBA automation tools',
-      'Built Chrome extensions for automated data collection — reduced manual research time by 60%',
-      'Upgraded insurance risk rating tools — improved reliability and reduced assessment time by 40%',
+      'Developed and maintained Excel VBA-enabled insurance rating sheets for Argo Group\'s underwriting process — automating complex risk calculations previously done manually',
+      'Built process automation tools for insurance underwriting backend workflows — reducing assessment time by 40%',
+      'Developed custom Chrome extensions for automated data collection from multiple web portals — cutting manual research time by 60%',
+      'Led a 3-member team coordinating requirements with North American stakeholders via Jira',
+      'Integrated Chrome extension output with Excel/Word reports with automated validations — improving data accuracy by 30%',
     ],
   },
   {
