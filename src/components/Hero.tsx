@@ -26,10 +26,12 @@ export default function Hero() {
         </p>
 
         <p className="text-sm text-gray-500 max-w-lg leading-relaxed">
-          3 years of enterprise SaaS development at a Japanese software company —
-          building secure authentication systems, AI-powered RAG pipelines, and
-          full-stack web applications. Currently learning German and open to
-          relocating to Germany.
+          Full stack developer with 3 years of enterprise SaaS experience and a 
+          background spanning insurance underwriting automation, AI-powered RAG 
+          pipelines, and secure authentication systems. Previously built Excel VBA 
+          rating tools and Chrome automation extensions for Argo Group's insurance 
+          underwriting process. Currently learning German and open to relocating 
+          to Germany.
         </p>
 
         <div className="flex items-center gap-3 mt-2">
